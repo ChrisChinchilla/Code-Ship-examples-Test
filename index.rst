@@ -21,17 +21,6 @@ Look at this great example:
   >>> sum((2, 2))
   4
 
-Test-Output example:
-
-.. testcode::
-
-  sum((2, 2))
-
-This would output:
-
-.. testoutput::
-
-  4
 
 Indices and tables
 ==================
